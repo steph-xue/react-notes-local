@@ -40,6 +40,7 @@ The user can click on the create on the 'create one now' button to get started w
 
 <br>
 ![Write](./images/write.png?raw=true "Write")
+<br>
 The user can select notes on the left-hand side bar and write notes in markdown format in the editor on the right-side
 <br><br>
 
