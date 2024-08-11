@@ -4,16 +4,8 @@ The react notes project is a a dynamic web application built using the front-end
 &nbsp;
 
 Can access on:
-&nbsp;
-
-The following dependencies were used:
-  - React-split
-    - Allows pages to be divided into seperate sections that can be dragged with a slider to adjust the width or height
-  - React-mde
-    - A React markdown editor
-  - Showdown
-    - A Javascript markdown to html converter
 <br><br>
+
 
 ## Here are the features of the app:
 **Creating new notes**
@@ -67,6 +59,15 @@ The user can delete notes by click on the trash icon that appears while hovering
   - React uses JSX, which is an XML-like extension to the JavaScript language that lets you write HTML-like markup inside a JavaScript file
 - Vite was also used as a build tool to create the web application
   - Vite is a local development server that has support for frameworks like React and Vue.js, and programming languages like JavaScript and TypeScript 
+
+The following dependencies were used:
+  - React-split
+    - Allows pages to be divided into seperate sections that can be dragged with a slider to adjust the width or height
+  - React-mde
+    - A React markdown editor
+  - Showdown
+    - A Javascript markdown to html converter
+<br><br>
 
 ## How to Run Locally
 - Install the latest version of node.js (JavaScript runtime server)
