@@ -19,7 +19,7 @@ The following dependencies were used:
 <br> 
 
 ## Here are the features of the app:
-Creating new notes
+**Creating new notes**
   - When the user first opens the web application (and also when there are no notes added) a message will display indicating there are no notes with a button to create your first note
   - The sidebar will contain a '+' icon that when clicked on will create a new note
    
@@ -27,13 +27,13 @@ Creating new notes
 The user can click on the create on the 'create one now' button to get started with their first note
 <br>
 
-Selecting notes to view
+**Selecting notes to view**
   - The sidebar will show all notes with the ones that were most recently created or updated at the very top
   - The first line of the body of the note will display as the title
   - The currently selected note on the side bar will appear highlighted in an accent color 
   - Clicking on a note will select it to view and edit in the editor panel on the right-hand side
     
-Writing/updating note title and content (in markdown)
+**Writing/updating note title and content (in markdown)**
   - The user can select the 'write' tab to write and update the note's contents in the editor panel on the right-hand side
   - The markdown editor allows the user to write in markdown format
   - The editor also displays a graphical user interface with buttons to help format your note's content
@@ -42,14 +42,14 @@ Writing/updating note title and content (in markdown)
 ![Write](./images/write.png?raw=true "Write")
 The user can select notes on the left-hand side bar and write notes in markdown format in the editor on the right-side
 
-Previewing notes (in html)
+**Previewing notes (in html)**
   - The user can select the 'preview' tab to view note's contents in the editor panel on the right-hand side
   - The note's contents will preview in html format
 
 <br></br>
 ![Preview](./images/preview.png?raw=true "Preview")
 
-Deleting notes
+**Deleting notes**
   - When the user hovers over a note
 <br></br>
 ![Delete](./images/delete.png?raw=true "Delete")
