@@ -1,6 +1,6 @@
 # React Notes Project (Local Databse)
 
-The react notes project is a a dynamic web application built using the front-end JavaScript library, React. The web application's data saves directly on the computer's local database. The user can create new notes, select notes to view, write and update the title and body of the notes (in markdown), preview notes (in html), as well as delete notes.
+The react notes project is a a dynamic web application built using the front-end JavaScript library, React. The web application's data saves directly on the computer's local database. The user can create new notes, select notes to view, write and update the title and body of the notes (in markdown), preview notes (in html), as well as delete notes. The web application contains a markdown editor and markdown to html converter, which allows the user to toggle between 'write' and 'preview' tabs to write content in markdown and preview the content in html.
 
 <br>
 
