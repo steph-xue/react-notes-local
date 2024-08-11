@@ -66,6 +66,12 @@ button:focus {
   height: 100vh;
 }
 
+.notes-title {
+  font-size: 35px !important;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
 .title {
   overflow: hidden;
   width: 100%;
