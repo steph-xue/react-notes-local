@@ -3,6 +3,8 @@ import ReactMde from "react-mde"
 import Showdown from "showdown"
 
 function Editor({ currentNote, updateNote }) {
+
+    // Create state for selected tab (write or preview) in the markdown editor
     const [selectedTab, setSelectedTab] = React.useState("write");
 
     const converter = new Showdown.Converter({
@@ -12,6 +14,7 @@ function Editor({ currentNote, updateNote }) {
         tasklists: true,
     });
 
+    // Return the markdown editor component
     return (
         <section className="pane editor">
             <ReactMde

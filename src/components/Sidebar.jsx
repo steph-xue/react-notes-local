@@ -1,6 +1,8 @@
 import React from "react"
 
 function Sidebar(props) {
+
+    // Map through the notes array and create a div element for each note
     const noteElements = props.notes.map((note, index) => (
         <div key={note.id}>
             <div
@@ -21,6 +23,7 @@ function Sidebar(props) {
         </div>
     ));
 
+    // Return the sidebar component with a header, a button to create a new note, and a list of note elements
     return (
         <section className="pane sidebar">
             <div className="sidebar-header">
