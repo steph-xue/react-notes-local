@@ -2,11 +2,11 @@
 
 The react notes project is a a dynamic web application built using the front-end JavaScript library, React. The web application's data saves directly on the computer's local database. The user can create new notes, select notes to view, write and update the note's title and body (in markdown), preview notes (in html), as well as delete notes. The web application contains a markdown editor and markdown to html converter, which allows the user to toggle between 'write' and 'preview' tabs to write content in markdown and preview the content in html.
 
-<br>
+<br></br>
 
 Can access on:
 
-<br>
+<br></br>
 
 The following dependencies were used:
   - React-split
@@ -16,7 +16,7 @@ The following dependencies were used:
   - Showdown
     - A Javascript markdown to html converter
 
-<br> 
+<br></br>
 
 ## Here are the features of the app:
 **Creating new notes**
@@ -38,9 +38,9 @@ The user can click on the create on the 'create one now' button to get started w
   - The markdown editor allows the user to write in markdown format
   - The editor also displays a graphical user interface with buttons to help format your note's content
 
-<br>
+<br></br>
 ![Write](./images/write.png?raw=true "Write")
-<br>
+<br></br>
 The user can select notes on the left-hand side bar and write notes in markdown format in the editor on the right-side
 <br><br>
 
@@ -55,7 +55,7 @@ The user can select notes on the left-hand side bar and write notes in markdown 
 **Deleting notes**
   - When the user hovers over a note, a trash icon will appear
   - Clicking on the trash icon will allow the user to delete the note
-<br>
+<br></br>
 ![Delete](./images/delete.png?raw=true "Delete")
 <br></br>
 
