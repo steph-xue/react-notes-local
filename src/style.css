@@ -28,17 +28,17 @@ button:focus {
   height: 100vh;
 }
 
-.sidebar--note {
+.sidebar-note {
   /* display: flex; */
 }
 
-.sidebar--header {
+.sidebar-header {
   display: flex;
   justify-content: space-around;
   align-items: center;
 }
 
-.sidebar--header > h3 {
+.sidebar-header > h3 {
   font-size: 1.75rem;
 }
 
@@ -75,14 +75,14 @@ button:focus {
   align-items: center;
 }
 
-.title--delete {
+.title-delete {
   display: none;
   cursor: pointer;
   background-color: transparent;
   border: none;
 }
 
-.title:hover .title--delete {
+.title:hover .title-delete {
   display: block;
 }
 
