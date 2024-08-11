@@ -3,6 +3,9 @@
 The react notes project is a a dynamic web application built using the front-end JavaScript library, React. The web application's data saves directly on the computer's local database. The user can create new notes, select notes to view, write and update the note's title and body (in markdown), preview notes (in html), as well as delete notes. The web application contains a markdown editor and markdown to html converter, which allows the user to toggle between 'write' and 'preview' tabs to write content in markdown and preview the content in html.
 &nbsp;
 
+***Note: Project must be run on React version 17, the markdown editor and markdown to html converter (dependencies) are not supported on React version 18+.***
+&nbsp;
+
 Can access on:
 <br><br>
 
@@ -60,19 +63,20 @@ The user can delete notes by click on the trash icon that appears while hovering
 - Vite was also used as a build tool to create the web application
   - Vite is a local development server that has support for frameworks like React and Vue.js, and programming languages like JavaScript and TypeScript 
 
-The following dependencies were used:
+## Dependencies 
   - React-split
     - Allows pages to be divided into seperate sections that can be dragged with a slider to adjust the width or height
   - React-mde
     - A React markdown editor
   - Showdown
     - A Javascript markdown to html converter
-<br><br>
 
 ## How to Run Locally
 - Install the latest version of node.js (JavaScript runtime server)
 - Install the latest version of npm (JavaScript package manager)
 - Install the latest version of vite which can be done by typing in the command line 'npm install -D vite'
+- Install the dependencies using npm
+  - 
 - The web application can be run on your local server by typing in the command line 'npm run dev'
 
 ## How to Deploy
