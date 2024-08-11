@@ -1,6 +1,6 @@
 import React from "react"
-import R from "react-mde"
-const ReactMde = R.default
+import ReactMde from "react-mde";
+import 'react-mde/lib/styles/css/react-mde-all.css';
 import Showdown from "showdown"
 
 function Editor({ currentNote, updateNote }) {
