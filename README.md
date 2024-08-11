@@ -25,7 +25,7 @@ The following dependencies were used:
    
 ![Create New](./images/create-new.png?raw=true "Create New")
 The user can click on the create on the 'create one now' button to get started with their first note
-<br>
+<br><br>
 
 **Selecting notes to view**
   - The sidebar will show all notes with the ones that were most recently created or updated at the very top
@@ -41,6 +41,7 @@ The user can click on the create on the 'create one now' button to get started w
 <br>
 ![Write](./images/write.png?raw=true "Write")
 The user can select notes on the left-hand side bar and write notes in markdown format in the editor on the right-side
+<br><br>
 
 **Previewing notes (in html)**
   - The user can select the 'preview' tab to view note's contents in the editor panel on the right-hand side
@@ -48,10 +49,11 @@ The user can select notes on the left-hand side bar and write notes in markdown 
 
 <br></br>
 ![Preview](./images/preview.png?raw=true "Preview")
+<br><br>
 
 **Deleting notes**
-  - When the user hovers over a note
-<br></br>
+  - When the user hovers over a note, a trash icon will appear
+  - Clicking on the trash icon will allow the user to delete the note
 ![Delete](./images/delete.png?raw=true "Delete")
 <br></br>
 
