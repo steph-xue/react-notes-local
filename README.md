@@ -6,18 +6,29 @@ The react notes project is a a dynamic web application built using the front-end
 
 Here are the features of the app:
   - Creating new notes
+    - When the user first opens the web application (and also when there are no notes added) a message will display indicating there are no notes with a button to create your first note
+    - The sidebar will contain a '+' icon that when clicked on will create a new note
   - Selecting notes to view
+    - The sidebar will show all notes with the ones that were most recently created or updated at the very top
+    - The first line of the body of the note will display as the title
+    - The currently selected note on the side bar will appear highlighted in an accent color 
+    - Clicking on a note will select it to view and edit in the editor panel on the right-hand side
   - Writing/updating note title and content (in markdown)
+    - The user can select the 'write' tab to write and update the note's contents in the editor panel on the right-hand side
+    - The markdown editor allows the user to write in markdown format
+    - The editor also displays a graphical user interface with 
   - Previewing notes (in html)
+    - 
   - Deleting notes
+    - 
 
 The following dependencies were used:
   - React-split
     - Allows pages to be divided into seperate sections that can be dragged with a slider to adjust the width or height
   - React-mde
-    - A React Markdown Editor
+    - A React markdown editor
   - Showdown
-    - A Javascript Markdown to HTML converter
+    - A Javascript markdown to html converter
 
 Can access on: 
 ![Create New](./images/create-new.png?raw=true "Create New")
