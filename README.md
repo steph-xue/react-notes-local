@@ -13,7 +13,7 @@ The following dependencies were used:
     - A React markdown editor
   - Showdown
     - A Javascript markdown to html converter
-&nbsp;
+<br><br>
 
 ## Here are the features of the app:
 **Creating new notes**
