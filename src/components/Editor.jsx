@@ -1,6 +1,5 @@
 import React from "react"
-import ReactMde from "react-mde";
-import 'react-mde/lib/styles/css/react-mde-all.css';
+import ReactMde from "react-mde"
 import Showdown from "showdown"
 
 function Editor({ currentNote, updateNote }) {
