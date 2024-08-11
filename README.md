@@ -18,7 +18,7 @@ The following dependencies were used:
 
 <br> 
 
-# Here are the features of the app:
+## Here are the features of the app:
 Creating new notes
   - When the user first opens the web application (and also when there are no notes added) a message will display indicating there are no notes with a button to create your first note
   - The sidebar will contain a '+' icon that when clicked on will create a new note
