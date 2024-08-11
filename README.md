@@ -54,6 +54,7 @@ The user can select notes on the left-hand side bar and write notes in markdown 
 **Deleting notes**
   - When the user hovers over a note, a trash icon will appear
   - Clicking on the trash icon will allow the user to delete the note
+<br>
 ![Delete](./images/delete.png?raw=true "Delete")
 <br></br>
 
