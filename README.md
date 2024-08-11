@@ -56,7 +56,7 @@ The user can preview notes on the right-hand side in html using the 'preview' ta
   - Clicking on the trash icon will allow the user to delete the note
 <br><br>
 
-![Delete](./images/delete.png?raw=true "Delete")
+![Delete](./images/delete.png?raw=true "Delete") \n
 &nbsp;
 The user can delete notes by click on the trash icon that appears while hovering over a note
 
