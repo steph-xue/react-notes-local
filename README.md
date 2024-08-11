@@ -3,7 +3,8 @@
 The meme generator project is a dynamic web application built using the front-end JavaScript library, React. The meme generator makes a call to the API "https://api.imgflip.com/get_memes" to get a selection of memes. When the user clicks the "get a new meme image" button, a new meme image is retrieved to be displayed on the user interface of the web application. Then the user can type in their choice of top and bottom text to be displayed on the meme image.
 
 Can access on: https://reac-sx.netlify.app
-
+![Create New](./images/create-new.png?raw=true "Create New")
+<br></br>
 ![Write](./images/write.png?raw=true "Write")
 <br></br>
 ![Preview](./images/preview.png?raw=true "Preview")
