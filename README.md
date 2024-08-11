@@ -6,7 +6,7 @@ The react notes project is a a dynamic web application built using the front-end
 ***Note:*** Project must be run on React version 17. The markdown editor and markdown to html converter (dependencies) are not supported on React version 18+.
 <br><br>
 
-Can access on:
+Can access on: https://react-notes-local-sx.netlify.app/
 <br><br>
 
 
